@@ -1,0 +1,5 @@
+git hub commit 방법
+
+1. git add . => 스냅샷 찍는 것과 동일함
+2. git commit -m "commit message" => 변경한 내용을 스테이지 단계로 올려서 커밋할 준비를 함
+3. git push origin main => main이라는 브랜치로 푸시
