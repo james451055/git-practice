@@ -1,0 +1,41 @@
+    1  pwd
+    2  cd DeskTop
+    3  pwd
+    4  ls
+    5  cd 로봇공학
+    6  ls
+    7  cd ..
+    8  cd .
+    9  ls
+   10  clear
+   11  ls
+   12  clear
+   13  pwd
+   14  ls
+   15  cd 배경화면
+   16  cd 바탕화면
+   17  help cd
+   18  help ls
+   19  man ls
+   20  man cp
+   21  fuck
+   22  you
+   23  git
+   24  clear
+   25  exit
+   26  ls 배경화면
+   27  ls 바탕화면
+   28  ㅣㄴ
+   29  ls
+   30  cd 바탕화면
+   31  ls
+   32  ls
+   33  ls -l 
+   34  
+   35  chmod 664 words.txt
+   36  ls -l
+   37  chmod 644 words.txt
+   38  ls -l
+   39  history > words.txt
+   40  cat history
+   41  history > history_words.txt
